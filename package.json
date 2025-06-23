@@ -1,0 +1,12 @@
+{
+  "name": "com.inputsystem.extra",
+  "description": "inputsystem extra package",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "displayName": "Input System Extra",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.simplecodegenerator": "https://github.com/CXProject/SimpleCodeGenerator.git",
+    "com.lapcat.commontools": "https://github.com/CXProject/LC_CommonTools.git"
+  }
+}
