@@ -1,11 +1,9 @@
 {
-    "name": "TestInputSystem",
+    "name": "InputSystemExtra",
     "rootNamespace": "",
     "references": [
-        "GUID:628e94d4f86c02f4bbacf8714005d2ae",
-        "GUID:75469ad4d38634e559750d17036d5f7c",
         "GUID:3bdd474fd462e2e46b5dfef23375fb75",
-        "GUID:bfc9d006a79b929459fd9a3dcff8fe36"
+        "GUID:75469ad4d38634e559750d17036d5f7c"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

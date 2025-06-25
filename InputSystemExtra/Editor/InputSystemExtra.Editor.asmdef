@@ -1,12 +1,15 @@
 {
-    "name": "InputSystemExtra",
+    "name": "InputSystemExtra.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:3bdd474fd462e2e46b5dfef23375fb75",
+        "GUID:628e94d4f86c02f4bbacf8714005d2ae",
+        "GUID:7acb755b0f13207419fc638b8f579565",
         "GUID:75469ad4d38634e559750d17036d5f7c",
-        "GUID:7acb755b0f13207419fc638b8f579565"
+        "GUID:3bdd474fd462e2e46b5dfef23375fb75"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
